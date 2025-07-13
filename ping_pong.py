@@ -45,6 +45,7 @@ game = True
 finish = False
 clock = time.Clock()
 FPS = 60
+FPS = 60
 
 
 #creating ball and paddles   
