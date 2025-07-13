@@ -12,7 +12,8 @@ class GameSprite(sprite.Sprite):
        self.rect.x = player_x
        self.rect.y = player_y
 
-
+# asodfjoasdfjsldkf
+# testing
    def reset(self):
        window.blit(self.image, (self.rect.x, self.rect.y))
 
